@@ -34,8 +34,12 @@
 
 # 📖 <a name="about-project"></a>
 
-**CodeAlph_ResponsiveBlog**
-"A responsive blog website is a web platform designed to adapt and display content optimally on various devices, including desktop computers, tablets, and mobile devices. It utilizes responsive design principles to automatically adjust the layout, images, and text to fit the screen size of the device being used, ensuring a seamless and user-friendly browsing experience across different platforms."
+**CodeAlph_LandingPage**
+"A landing page is one of the best web development projects
+A foundational understanding of HTML and CSS is
+required. You will learn how to add columns, divide sections,
+arrange items, add headers, footers. Create an impressive page
+using your creativity."
 <a href="https://reactjs.org/">React.js</a>
 
 ## Screenshot <a name="screenshot"></a>
@@ -102,8 +106,8 @@ Probably with versions:
 Clone this repository to your desired folder:
 
 ```sh
-  cd CodeAlph_ResponsiveBlog
-  git clone https://github.com/KAYEMBAJONATHAN/CodeAlph_ResponsiveBlog.git
+  cd CodeAlph_LandingPage
+  git clone https://github.com/KAYEMBAJONATHAN/CodeAlpha_LandingPage.git
 ```
 
 ### Install
@@ -111,7 +115,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd CodeAlph_ResponsiveBlog
+  cd CodeAlph_LandingPage
   npm i
 ```
 
