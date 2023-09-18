@@ -16,7 +16,6 @@ function Footer() {
           <ul>
             <li><a href="https://github.com/KAYEMBAJONATHAN" target="_blank" rel="noopener noreferrer">Github</a></li>
             <li><a href="https://www.linkedin.com/in/cimena-kayemba/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
-            {/* Add more social media links as needed */}
           </ul>
         </div>
       </div>

@@ -6,7 +6,7 @@ const Hero = () => {
     <section className="hero">
       <h1>Welcome to Our Landing Page</h1>
       <p>Discover amazing features and benefits.</p>
-      <button className="cta-button">Get Started</button>
+      <a href="/features" className="cta-button">See More</a>
     </section>
   );
 };

@@ -46,7 +46,7 @@ footer {
   }
   
   .social-media a:hover {
-    color: #007bff; /* Change to your desired hover color */
+    color: #007bff;
   }
   
   .copyright {
@@ -61,7 +61,6 @@ footer {
     font-size: 14px;
   }
   
-  /* Media Query for Smaller Screens */
   @media (max-width: 768px) {
     .footer-content {
       flex-direction: column;
